@@ -1,10 +1,11 @@
 # dzstore
 
-A new Flutter application.
+Mobile app made using Flutter && Firebase
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The app allows you to purchase gaming coins and  digital subscriptions for your favorite services.
 
 A few resources to get you started if this is your first Flutter project:
 
