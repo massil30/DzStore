@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "127894847779",
+    "project_id": "dzstore-c4fa7",
+    "storage_bucket": "dzstore-c4fa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127894847779:android:896abce424373b29e2cc96",
+        "android_client_info": {
+          "package_name": "com.example.dzstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127894847779-1579b78t1k0i31l6hpt3vfeevtarcfuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dzstore",
+            "certificate_hash": "a73d3075b50182c7b7f5d4d5ccee1c74cb909616"
+          }
+        },
+        {
+          "client_id": "127894847779-l74a5afqojqbl43o9arskmedtqhf6rmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDywJkH0C_9V_sg-3jANZ8hQqmvXhKGX_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127894847779-l74a5afqojqbl43o9arskmedtqhf6rmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
